@@ -4,7 +4,6 @@
 //Step 3: Add the CandleStick Series.
 //Step 4: Set the data and render.
 
-
 //Code
 const log = console.log;
 
